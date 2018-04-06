@@ -13,4 +13,4 @@ sudo chkconfig docker on
 
 # Install Git
 
-yum install git
+sudo yum install git
